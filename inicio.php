@@ -17,7 +17,7 @@ if(isset($_SESSION['k_username'])){
  
   <link rel="stylesheet" href="css/style.css">
   <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<title>Sistema para socios</title>
+	<title>Sistema para Socios</title>
 	<meta name="viewport" content="width=device-width , initial-scale=1.0">
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/bootstrap-responsive.css">
